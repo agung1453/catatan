@@ -1,0 +1,5 @@
+{
+  "name": "Catatan Digital Pro",
+  "description": "Aplikasi manajemen catatan (CRUD) yang responsif, estetis, dan menyimpan data secara lokal.",
+  "requestFramePermissions": []
+}
